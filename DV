@@ -1,3 +1,8 @@
 Deploy is development branch
+<<<<<<< HEAD
 Used for practicing 
 Deployment with branches
+=======
+Used for practicing deployment
+deployment2
+>>>>>>> dev1
